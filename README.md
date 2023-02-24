@@ -1,6 +1,6 @@
 
 ## Digital Bank
-Projeto 
+O projeto de banco digital com foco na função de transferência entre contas é uma solução financeira online que tem como objetivo principal permitir que os usuários realizem transferências entre contas de forma rápida e segura.
 
 
 ## Front-End
