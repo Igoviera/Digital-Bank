@@ -19,14 +19,14 @@ Projeto
 ## Como rodar a aplicação frontend
 Clone o repositório e execute o seguinte comando no diretório do projeto:
 
-npm install
+$ npm install
 
 Este comando instalará todas as dependências do projeto e as baixará para a pasta node_modules.
 
 ## Executando o projeto
 Depois de instalar as dependências, você pode iniciar o projeto com o seguinte comando:
 
-npm start
+$ npm start
 
 Este comando iniciará o servidor de desenvolvimento e abrirá o projeto em http://localhost:3000 no navegador.
 
@@ -37,6 +37,6 @@ JWT_SECRET= DATABASE_URL=
 
 Depois de instalar as dependências e configurar o arquivo .env, você pode iniciar o projeto com o seguinte comando:
 
-npm run start:dev
+$ npm run start:dev
 
 Este comando iniciará o servidor e o projeto estará disponível em http://localhost:5555 no navegador.
